@@ -1,0 +1,1 @@
+/opt/spark/bin/spark-submit /opt/spark/examples/src/main/python/sort.py sort_input > spark_result
